@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Wavin-AHC-9000-mqtt-rescue)(type Legacy)(uri ${KIPRJMOD}/Wavin-AHC-9000-mqtt-rescue.lib)(options "")(descr ""))
+)
